@@ -6,7 +6,7 @@ MYJSON = """
     "firstName": "Jane",
     "lastName": "Doe",
     "hobbies": ["running", "sky diving", "singing"],
-    "age": 35,
+    "age": 35, #meow meow meow
     "children": [
         {
             "firstName": "Alice",
